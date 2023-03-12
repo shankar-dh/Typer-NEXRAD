@@ -1,7 +1,7 @@
 # Typer NEXRAD
 
 
-A Python CLI Application for NEXRAD
+A Python CLI Application to access the funcionalities of NEXRAD
 
 Created five user functionalities in Typer 
 
