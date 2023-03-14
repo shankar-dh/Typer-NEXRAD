@@ -6,7 +6,7 @@ A Python CLI Application to access the funcionalities of NEXRAD
 Created five user functionalities in Typer 
 
 1. createuser - Creates user with their username, password, and their tiers and uploads them to database<br>
-  `typer_t7 createuser <username> <passwod>`
+  `typer_t7 createuser <username>`
 
 2. download - Download files from users public s3 bucket by specifying the file name <br>
    `typer_t7 download <username> <password> <bucketname> <filename>`
